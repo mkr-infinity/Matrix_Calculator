@@ -26,6 +26,16 @@ jobs:
       - name: 📦 Install dependencies
         run: npm install
 
+      - name: 🔧 Fix Metro Config
+        run: |
+          cat > metro.config.js << 'EOF'
+          import { getDefaultConfig } from "expo/metro-config";
+
+          const config = getDefaultConfig(__dirname);
+
+          export default config;
+          EOF
+
       - name: ⚙️ Build Release APKs
         run: |
           cd android
