@@ -1,72 +1,88 @@
 # 🧮 Matrix Solver
 
-Fast, fully offline Android matrix calculator with step-by-step solutions and clean Material UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/UI-Material%20Design-orange?style=for-the-badge&logo=material-design" />
+</p>
+
+<p align="center">
+  🚀 Fast, fully offline Android matrix calculator with step-by-step solutions and a clean Material UI.
+</p>
 
 ---
 
 ## ✨ Features
 
-* Matrix addition, subtraction, multiplication
-* Determinant & inverse
-* Transpose
-* Step-by-step solution
-* Local history (saved on device)
-* Export result as image
-* Multiple themes
-* No internet required 🔒
+<p align="center">
+  <img src="https://img.shields.io/badge/Matrix%20Math-✔️-blue?style=for-the-badge&logo=matrix" />
+  <img src="https://img.shields.io/badge/Step%20Solutions-📐-purple?style=for-the-badge&logo=readme" />
+  <img src="https://img.shields.io/badge/Offline-🔒-green?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Themes-🎨-orange?style=for-the-badge&logo=material-design" />
+</p>
+
+---
+
+### 🚀 Core Capabilities
+- ➕ **Matrix Operations** → Addition, subtraction, multiplication  
+- 🔄 **Transpose** → Instantly flip rows & columns  
+- 📏 **Determinant & Inverse** → Accurate calculations  
+
+### 📖 Learning Support
+- 📝 **Step-by-step solutions** → Perfect for students & learners  
+- 🕘 **Local history** → Saved on device, no cloud dependency  
+- 🖼️ **Export results as image** → Share or save easily  
+
+### 🎨 User Experience
+- 🌈 **Multiple themes** → Customize your look  
+- 🔒 **Fully offline** → No internet required, secure & fast  
+
+### 🛡️ Privacy & Security
+- 🚫 **No permissions required** → App works without accessing contacts, storage, or network  
+- 📂 **Everything stays on your device** → Your data never leaves your phone  
+- 🔐 **Safe & private by design** → 100% offline, no tracking, no ads  
 
 ---
 
 ## 📱 Screenshots
 
-### 🏠 Matrix Input
+| 🏠 Matrix Input | 📊 Result Screen | 📐 Step-by-Step |
+|-----------------|-----------------|----------------|
+| ![Matrix Input](./assets/screenshots/matrix-input.jpg) | ![Result](./assets/screenshots/result.jpg) | ![Steps](./assets/screenshots/steps.jpg) |
 
-![Matrix Input](./assets/screenshots/matrix-input.jpg)
-
-### 📊 Result Screen
-
-![Result](./assets/screenshots/result.jpg)
-
-### 📐 Step-by-Step Solution
-
-![Steps](./assets/screenshots/steps.jpg)
-
-### 🕘 History
-
-![History](./assets/screenshots/history.jpg)
-
-### 🎨 Themes / Settings
-
-![Themes](./assets/screenshots/themes.jpg)
-
-### 👤 About
-
-![About](./assets/screenshots/about.jpg)
+| 🕘 History | 🎨 Themes / Settings | 👤 About |
+|------------|---------------------|----------|
+| ![History](./assets/screenshots/history.jpg) | ![Themes](./assets/screenshots/themes.jpg) | ![About](./assets/screenshots/about.jpg) |
 
 ---
-
 ## 📦 Download
 
-From **Releases** install:
+📥 From [**Releases**](https://github.com/mkr-infinity/matrix/releases), install:
 
-* **arm64-v8a** → Recommended for modern phones ✅
-* **armeabi-v7a** → Old / low-end devices
-* **x86 / x86_64** → Emulator
-* **universal** → Works on all devices
+- 📱 [**arm64-v8a**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-arm64-v8a.apk) → Recommended for modern phones ✅  
+- 📱 [**armeabi-v7a**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-armeabi-v7a.apk) → Old / low-end devices  
+- 💻 [**x86 / x86_64**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-x86.apk) → Emulator  
+- 🌍 [**universal**](https://github.com/mkr-infinity/matrix/releases/latest/download/matrix-universal.apk) → Works on all devices  
+
 
 ---
 
 ## 🚀 Install
 
-Download → Open APK → Allow unknown apps → Install.
+1. ⬇️ Download APK  
+2. 📂 Open APK  
+3. ⚙️ Allow unknown apps  
+4. ✅ Install  
 
 ---
 
 ## 🛠 Tech Stack
 
-* Expo + React Native
-* Native Android (Gradle release build)
-* Material Design
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material Design" width="80" height="80"/>
+</p>
+
 
 ---
 
@@ -74,10 +90,13 @@ Download → Open APK → Allow unknown apps → Install.
 
 **Mohammad Kaif Raja 🇮🇳**
 
-GitHub → https://github.com/mkr-infinity
-Instagram → https://instagram.com/mkr_infinity
-Telegram → https://t.me/mkr_infinity
+📸 [Instagram](https://instagram.com/mkr_infinity)  
+💬 [Telegram](https://t.me/mkr_infinity)  
 
 ---
 
-⭐ Star this repo if you like the project.
+<p align="center">
+  ⭐ Star this repo if you like the project!  
+  <br><br>
+  <img src="https://img.shields.io/github/stars/mkr-infinity/matrix-solver?style=social" />
+</p>
